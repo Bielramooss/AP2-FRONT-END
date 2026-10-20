@@ -113,5 +113,3 @@ npm run lint
 ## 👨‍💻 Autor
 
 Gabriel da Silva Ramos
-
-Projeto acadêmico desenvolvido para a Avaliação Prática AP2.
